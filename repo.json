@@ -7,22 +7,6 @@
   },
   "packages": [
     {
-      "id": "org.ipk.minisnake",
-      "title": "Mini Snake",
-      "iconUri": "https://raw.githubusercontent.com/hallo235ksjf/ipks/main/apps/org.ipk.minisnake/icon.png",
-      "manifest": {
-        "id": "org.ipk.minisnake",
-        "version": "1.0.0",
-        "type": "web",
-        "title": "Mini Snake",
-        "rootRequired": false,
-        "ipkUrl": "https://raw.githubusercontent.com/hallo235ksjf/ipks/main/apps/org.ipk.minisnake/org.ipk.minisnake_1.0.0_all.ipk",
-        "ipkHash": {
-          "sha256": "e7d036a01597beea6dda30b1c2a705c389902a6114b9edd5337a8e60f456837d"
-        }
-      }
-    },
-    {
       "id": "org.halel.hudidle",
       "title": "HUD Idle",
       "iconUri": "https://raw.githubusercontent.com/hallo235ksjf/ipks/main/apps/org.halel.hudidle/icon.png",
@@ -35,6 +19,22 @@
         "ipkUrl": "https://raw.githubusercontent.com/hallo235ksjf/ipks/main/apps/org.halel.hudidle/org.ipk.minisnake_1.0.0_all.ipk",
         "ipkHash": {
           "sha256": "9757fcd09cca0ea06552daf052b90e49acc9fcfd0c633384bc4db10177a5ee06"
+        }
+      }
+    },
+    {
+      "id": "org.ipk.minisnake",
+      "title": "snake",
+      "iconUri": "https://raw.githubusercontent.com/hallo235ksjf/ipks/main/apps/org.ipk.minisnake/icon.png",
+      "manifest": {
+        "id": "org.ipk.minisnake",
+        "version": "1.0.0",
+        "type": "web",
+        "title": "snake",
+        "rootRequired": false,
+        "ipkUrl": "https://raw.githubusercontent.com/hallo235ksjf/ipks/main/apps/org.ipk.minisnake/org.ipk.minisnake_1.0.0_all.ipk",
+        "ipkHash": {
+          "sha256": "9aa554a36ea67e2c78f11c8c10c7c77ef72785b011b441445ce0eb56a133a1b5"
         }
       }
     }
