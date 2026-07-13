@@ -34,7 +34,7 @@
         "rootRequired": false,
         "ipkUrl": "https://raw.githubusercontent.com/hallo235ksjf/ipks/main/apps/org.ipk.minisnake/org.ipk.minisnake_1.0.0_all.ipk",
         "ipkHash": {
-          "sha256": "0a96a9cf29025555142f69055d01df0c546369722a2280f06f60f9695beee925"
+          "sha256": "e7d036a01597beea6dda30b1c2a705c389902a6114b9edd5337a8e60f456837d"
         }
       }
     }
