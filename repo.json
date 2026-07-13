@@ -16,21 +16,21 @@
         "type": "web",
         "title": "HUD Idle",
         "rootRequired": false,
-        "ipkUrl": "https://raw.githubusercontent.com/hallo235ksjf/ipks/main/apps/org.halel.hudidle/org.ipk.minisnake_1.0.0_all.ipk",
+        "ipkUrl": "https://raw.githubusercontent.com/hallo235ksjf/ipks/main/apps/org.halel.hudidle/org.halel.hudidle_1.0.0_all.ipk",
         "ipkHash": {
-          "sha256": "9757fcd09cca0ea06552daf052b90e49acc9fcfd0c633384bc4db10177a5ee06"
+          "sha256": "DEIN_HUD_IDLE_HASH"
         }
       }
     },
     {
       "id": "org.ipk.minisnake",
-      "title": "minisnake",
+      "title": "MiniSnake",
       "iconUri": "https://raw.githubusercontent.com/hallo235ksjf/ipks/main/apps/org.ipk.minisnake/icon.png",
       "manifest": {
         "id": "org.ipk.minisnake",
         "version": "1.0.0",
         "type": "web",
-        "title": "minisnake",
+        "title": "MiniSnake",
         "rootRequired": false,
         "ipkUrl": "https://raw.githubusercontent.com/hallo235ksjf/ipks/main/apps/org.ipk.minisnake/org.ipk.minisnake_1.0.0_all.ipk",
         "ipkHash": {
