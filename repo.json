@@ -1,1 +1,26 @@
-{ "paging": {"page":1,"count":0,"maxPage":1,"itemsTotal":0}, "packages": [] }
+{
+  "paging": {
+    "page": 1,
+    "count": 1,
+    "maxPage": 1,
+    "itemsTotal": 1
+  },
+  "packages": [
+    {
+      "id": "org.halel.hudidle",
+      "title": "HUD Idle",
+      "iconUri": "https://raw.githubusercontent.com/hallo235ksjf/ipks/main/apps/org.halel.hudidle/icon.png",
+      "manifest": {
+        "id": "org.halel.hudidle",
+        "version": "1.0.0",
+        "type": "web",
+        "title": "HUD Idle",
+        "rootRequired": false,
+        "ipkUrl": "https://raw.githubusercontent.com/hallo235ksjf/ipks/main/apps/org.halel.hudidle/org.ipk.testapp_1.0.0_all.ipk",
+        "ipkHash": {
+          "sha256": "064e0edfebe4160f2bf8c0b63ed1e99807efff07443739a98ed576180d54354f"
+        }
+      }
+    }
+  ]
+}
